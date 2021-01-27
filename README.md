@@ -2,6 +2,14 @@
 ### CentOS7下的GUI用户网络配置 - 无shell环境
 > Redhat系运行无异常，Debian系需要NetworkManager服务
 
+```bash
+#执行下面命令在操作系统上快速体验
+curl -ks https://raw.githubusercontent.com/SkyOfWood/whiptail_User/master/create_user.sh|bash
+
+#登入用户network
+#登入密码network123
+```
+
 - **网络正常**后登入的显示，无法做其它操作  
 [![sxzqyV.md.png](https://s3.ax1x.com/2021/01/27/sxzqyV.md.png)](https://imgchr.com/i/sxzqyV)
 

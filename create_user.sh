@@ -1,5 +1,4 @@
 #!/bin/bash
-#curl -s https://mtr.sp.baishan.com/create_user.sh|bash
 
 #定义变量
 USER_NAME='network'
@@ -20,6 +19,5 @@ service sshd reload
 echo "$USER_NAME ALL=(root)NOPASSWD: /usr/local/bin/User_network" > /etc/sudoers.d/user-$USER_NAME
 chmod 400 /etc/sudoers.d/user-$USER_NAME
 
-curl -ks https:// -o /usr/local/bin/User_network
+curl -ks https://raw.githubusercontent.com/SkyOfWood/whiptail_User/master/User_network.sh -o /usr/local/bin/User_network
 chmod 755 /usr/local/bin/User_network
-

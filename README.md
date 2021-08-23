@@ -11,11 +11,12 @@ curl -ks https://raw.githubusercontent.com/SkyOfWood/whiptail_Network/master/cre
 ```
 
 - **网络正常**后登入的显示，无法做其它操作  
-[![sxzqyV.md.png](https://s3.ax1x.com/2021/01/27/sxzqyV.md.png)](https://imgchr.com/i/sxzqyV)
+
+  [![sxzqyV.md.png](https://s3.ax1x.com/2021/01/27/sxzqyV.md.png)](https://imgchr.com/i/sxzqyV)
 
 - **网络不通**登入后菜单列表
 
-  [![sxz7zq.png](https://z3.ax1x.com/2021/01/27/sxz7zq.png)](https://imgtu.com/i/sxz7zq)
+  [![sxz7zq.md.png](https://z3.ax1x.com/2021/01/27/sxz7zq.md.png)](https://imgtu.com/i/sxz7zq)
 
 #### 功能说明
 

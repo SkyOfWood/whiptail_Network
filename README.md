@@ -4,7 +4,7 @@
 
 ```bash
 #执行下面命令在操作系统上快速体验
-curl -ks https://raw.githubusercontent.com/SkyOfWood/whiptail_User/master/create_user.sh|bash
+curl -ks https://raw.githubusercontent.com/SkyOfWood/whiptail_Network/master/create_user.sh|bash
 
 #登入用户network
 #登入密码network123

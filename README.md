@@ -15,7 +15,7 @@ curl -ks https://raw.githubusercontent.com/SkyOfWood/whiptail_User/master/create
 
 - **网络不通**登入后菜单列表
 
-  [![sxzqyV.md.png](https://s3.ax1x.com/2021/01/27/sxzqyV.md.png)](https://imgchr.com/i/sxzqyV)
+  [![sxz7zq.png](https://z3.ax1x.com/2021/01/27/sxz7zq.png)](https://imgtu.com/i/sxz7zq)
 
 #### 功能说明
 

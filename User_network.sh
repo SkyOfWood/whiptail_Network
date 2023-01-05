@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: chenglin.wu
+#Author: skyofwood
 #Version: 2021/01/06
 
 X=$(stty size|awk '{print$1}')
